@@ -2,12 +2,8 @@
 
 ## Overview
 
-This assignment starts out by giving a brief introduction to TCP in Section 1 before moving
-onto the problem statement. So, do not get scared if it seems very long at first. Also, note
-that unlike the previous assignments in this course, this assignment is relatively more open
-ended and as a result you have more freedom in your implementation details as long as you
-adhere to the protocol specified in Section 2.1. Deliverables of the assignment and the problem
-statement as started from Section 2 onwards.
+We'll start out by giving a brief introduction to TCP in Section 1 before moving
+onto the implementation. So, do not get scared if it seems very long at first. 
 
 ### Environment Setup
 
